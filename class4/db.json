@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "alumnos" :[
+    {
+      "first_name": "nelson",
+      "last_name" : "conde",
+      "age" : 21,
+      "color" : "aquamarine"
+    },
+    {
+      "first_name": "nelson2",
+      "last_name" : "conde2",
+      "age" : 21,
+      "color" : "aquamarine2"
+    },
+    {
+      "first_name": "nelson3",
+      "last_name" : "conde3",
+      "age" : 21,
+      "color" : "aquamarine3"
+    },
+    {
+      "first_name": "nelson5",
+      "last_name" : "conde5",
+      "age" : 21,
+      "color" : "aquamarine5"
+    },
+    {
+      "first_name": "nelson4",
+      "last_name" : "conde4",
+      "age" : 21,
+      "color" : "aquamarine4"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
